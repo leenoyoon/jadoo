@@ -4,13 +4,11 @@ This is a front-end project for "Jadoo," a modern travel agency website. It's bu
 
 ### [Live Demo](https://leenoyoon.github.io/jadoo/)
 
-*(Please replace the link above with your actual GitHub Pages URL)*
 
 ## Screenshot
 
 ![Jadoo Website Screenshot](./screenshot.jpg)
 
-*(To add this screenshot, take a picture of your project, name it `screenshot.jpg`, and place it in the same folder as this `README.md` file.)*
 
 ## Features
 
