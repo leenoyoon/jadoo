@@ -97,6 +97,10 @@ body {
   font-size: 17px;
 }
 
+.navbar-nav .nav-link:hover{
+  color: var(--color-text-hero-sub);
+}
+
 .navbar-nav .btn-signup {
   color: #212529 !important;
   text-decoration: none;
